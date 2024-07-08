@@ -1,0 +1,5 @@
+this is a test file
+%comment line 1
+second line
+% % comment line 2
+last line
